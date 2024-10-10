@@ -9,6 +9,8 @@ set clipboard=unnamed
 
 set showcmd
 
+set hidden
+
 set ruler
 
 set encoding=utf-8

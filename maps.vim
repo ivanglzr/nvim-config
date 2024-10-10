@@ -9,3 +9,5 @@ nnoremap <A-h> <C-w>h
 nnoremap <A-v> :vsplit<CR>
 
 nnoremap <C-b> :NvimTreeToggle<CR>
+
+tnoremap <Esc> <C-\><C-n>
