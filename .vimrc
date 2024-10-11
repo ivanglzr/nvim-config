@@ -1,8 +1,6 @@
 so ~/configs/nvim/plugins.vim
 so ~/configs/nvim/maps.vim
 
-so ~/configs/nvim/.vim/themes/onedarkpro.vim
-
 set number
 
 set clipboard=unnamed
@@ -32,3 +30,7 @@ set hlsearch
 set incsearch
 set ignorecase
 set smartcase
+
+syntax on
+
+colorscheme dracula
