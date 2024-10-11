@@ -3,9 +3,12 @@ so ~/configs/nvim/maps.vim
 
 set number
 
+set signcolumn=no
+
 set clipboard=unnamed
 
 set showcmd
+set cmdheight=0
 
 set hidden
 

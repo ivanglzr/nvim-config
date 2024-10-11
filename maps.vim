@@ -1,5 +1,6 @@
-noremap <C-s> :w<CR>
-noremap <C-q> :q<CR>
+nnoremap <C-s> :w<CR>
+nnoremap <C-q> :q<CR>
+nnoremap <C-S-q> :qa!<CR>
 
 noremap <C-w> :bdelete<CR>
 
