@@ -1,3 +1,5 @@
+let g:coc_config_home = expand('~/configs/nvim/.vim/coc')
+
 so ~/configs/nvim/plugins.vim
 so ~/configs/nvim/maps.vim
 
