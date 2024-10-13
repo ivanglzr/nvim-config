@@ -9,7 +9,6 @@ set clipboard=unnamed
 
 set showcmd
 set cmdheight=0
-set laststatus=3
 
 set hidden
 
@@ -38,3 +37,5 @@ set smartcase
 syntax on
 
 colorscheme dracula
+
+set laststatus=3
